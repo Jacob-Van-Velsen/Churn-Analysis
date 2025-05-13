@@ -1,1 +1,3 @@
 # Churn-Analysis
+
+For subscription-based businesses, reducing customer churn is a top priority. In this Tableau case study, I have investigated a dataset from an example telecom company called Databel and analysed their churn rates. Analysing churn doesn’t just mean knowing what the churn rate is: it’s also about figuring out why customers are churning at the rate they are, and how to reduce churn. I've answer these questions by creating calculated fields and various visualizations in Tableau, such as dual-axis graphs and scatter plots. I've made your graphs dynamic by using filters and parameters, and combine everything into a story to share your insights.
